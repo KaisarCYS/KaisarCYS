@@ -28,7 +28,7 @@ My objective as a Junior Penetration Tester is to leverage my expertise in ident
 
 
 
-                      |
+                      
 
 
 ## Tools
