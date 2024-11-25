@@ -44,7 +44,7 @@ My objective as a Junior Penetration Tester is to leverage my expertise in ident
 
 | **Project**                           | **Skills & Techniques Used**                                                                                                                       |
 |---------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------|
-| **[Keylogger] (https://github.com/KaisarCYS/Keylogger)**         | Penetration Testing, Keylogging, Ethical Hacking, OSINT, Malware Analysis, Windows/Linux Security, Privacy and Security Threats                    |
+| **[Keylogger](https://github.com/KaisarCYS/Keylogger)**         | Penetration Testing, Keylogging, Ethical Hacking, OSINT, Malware Analysis, Windows/Linux Security, Privacy and Security Threats                    |
 | **[Port Scanner](https://github.com/yourusername/port-scanner)**   | Network Scanning, TCP/IP, Nmap, Vulnerability Assessment, Exploit Development, Footprinting, Reconnaissance                                        |
 | **[Web Scraper](https://github.com/KaisarCYS/Keylogger)**     | Web Scraping, Python, Automation, Scripting, Data Extraction, Web Application Security, HTTP(S), SQL Injection Testing, Cross-Site Scripting (XSS) |
 | **[Honeypots](https://github.com/yourusername/honeypots)**         | Network Security, Honeypot Deployment, Intrusion Detection, Data Capture, Threat Intelligence, Malware Analysis                                    |
