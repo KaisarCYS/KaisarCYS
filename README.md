@@ -8,16 +8,23 @@ Hello! I'm a Junior Penetration Tester with a passion for ethical hacking and cy
 🎯 Objective
 My objective as a Junior Penetration Tester is to leverage my expertise in identifying and mitigating security vulnerabilities to help create safer digital environments. I aim to grow into a world-class professional by continuously expanding my skill set and obtaining advanced certifications. With a focus on innovative solutions and a dedication to staying ahead of emerging threats, I aspire to play a pivotal role in building resilient systems that withstand modern cyber challenges. Ultimately, my goal is to establish a leading cybersecurity company that sets new standards in the industry, blending cutting-edge security practices with a forward-thinking approach. Through this, I aim to make a lasting impact on the cybersecurity field, contributing to a safer and more secure digital world.
 
-## 🛠️ My Skills & Projects
 
-| **Project**            | **Skills & Techniques Used**                                                                                                                       |
-|------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Keylogger**          | Penetration Testing, Keylogging, Ethical Hacking, OSINT, Malware Analysis, Windows/Linux Security, Privacy and Security Threats                    |
-| **Port Scanner**       | Network Scanning, TCP/IP, Nmap, Vulnerability Assessment, Exploit Development, Footprinting, Reconnaissance                                        |
-| **Web Scraper**        | Web Scraping, Python, Automation, Scripting, Data Extraction, Web Application Security, HTTP(S), SQL Injection Testing, Cross-Site Scripting (XSS) |
-| **Honeypots**          | Network Security, Honeypot Deployment, Intrusion Detection, Data Capture, Threat Intelligence, Malware Analysis                                  |
-| **Firewall**           | Firewall Configuration, Network Security, TCP/IP, VPN, IDS/IPS, Security Policy, Penetration Testing, Packet Filtering                          |
-| **Packet Sniffer**     | Network Traffic Analysis, Packet Sniffing, Wireshark, TCP/IP, Protocol Analysis, Network Security Monitoring                                      |
+## 🛠️ My Skills & Projects as a Junior Penetration Tester
+
+| **Category**                            | **Skills & Tools**                                                                                                                                               | **Associated Projects**                                                                          |
+|-----------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------|
+| **🔒 Penetration Testing & Ethical Hacking** | Familiar with **Kali Linux**, **Burp Suite**, **Metasploit**, **Nmap**, **Wireshark**, **Nikto**; experience in **vulnerability scanning**, **web app testing**, **network testing**, **post-exploitation**. | Keylogger, Port Scanner, Honeypots, Packet Sniffer                                           |
+| **🖥️ Scripting & Automation**           | Proficient in **Python**, **Bash**, and **PowerShell**; experienced in **automating tasks** such as **vulnerability scanning**, **exploiting vulnerabilities**, and **simple scripting** for penetration testing. | Web Scraper, Packet Sniffer, Vulnerability Scanner Automation                                |
+| **🌐 Networking Fundamentals**          | Strong understanding of **TCP/IP**, **DNS**, **HTTP(S)**, **FTP**, **SSH** protocols; hands-on with **firewalls**, **network scanning**, **traffic analysis**, **VPNs**. | Port Scanner, Firewall, Honeypots                                                          |
+| **🔐 Cybersecurity Basics**             | Knowledge of **basic forensics**, **incident response**, and **SIEM tools**; experience with **basic malware analysis**, **reverse engineering**. | Firewall, Honeypots, Packet Sniffer                                                          |
+| **⚙️ Vulnerability Research**           | Hands-on experience with **vulnerability discovery**, **exploit testing**, and **patching systems**. Familiar with tools such as **OWASP ZAP** and **Nikto** for vulnerability testing. | Keylogger, Web Scraper, Packet Sniffer, Basic Exploit Development                            |
+| **🛡️ Web & Network Security**           | Knowledge of **web application security**, **network security**, **encryption**, and **IDS/IPS systems**; experience with **SQL injection**, **XSS**, **CSRF**, and **network reconnaissance**. | Web Scraper, Port Scanner, Honeypots, Firewall                                              |
+| **🏆 Certifications & Learning**        | Certified **eJPT** (eLearnSecurity Junior Penetration Tester); actively pursuing **CompTIA Security+**, **CEH**, and **OSCP** certifications to deepen penetration testing knowledge. | All Projects                                                                                 |
+
+
+
+
+
 
                       |
 
@@ -40,10 +47,14 @@ My objective as a Junior Penetration Tester is to leverage my expertise in ident
 <img src="https://img.shields.io/badge/-eJPT%20Certified-0052CC?style=for-the-badge&logo=INE&logoColor=white" />
 <img src="https://img.shields.io/badge/-TryHackMe%20Junior%20Penetration%20Tester-9B2C2C?style=for-the-badge&logo=TryHackMe&logoColor=white" />
 
-## Projects
-- Keylogger
-- Port Scanner
-- Web Scraper
-- Honeypots
-- Firewall
-- Packet Sniffer
+## 🛠️ Projects
+
+| **Project**            | **Skills & Techniques Used**                                                                                                                       |
+|------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Keylogger**          | Penetration Testing, Keylogging, Ethical Hacking, OSINT, Malware Analysis, Windows/Linux Security, Privacy and Security Threats                    |
+| **Port Scanner**       | Network Scanning, TCP/IP, Nmap, Vulnerability Assessment, Exploit Development, Footprinting, Reconnaissance                                        |
+| **Web Scraper**        | Web Scraping, Python, Automation, Scripting, Data Extraction, Web Application Security, HTTP(S), SQL Injection Testing, Cross-Site Scripting (XSS) |
+| **Honeypots**          | Network Security, Honeypot Deployment, Intrusion Detection, Data Capture, Threat Intelligence, Malware Analysis                                  |
+| **Firewall**           | Firewall Configuration, Network Security, TCP/IP, VPN, IDS/IPS, Security Policy, Penetration Testing, Packet Filtering                          |
+| **Packet Sniffer**     | Network Traffic Analysis, Packet Sniffing, Wireshark, TCP/IP, Protocol Analysis, Network Security Monitoring                                      |
+
