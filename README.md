@@ -3,26 +3,10 @@
 
 
 👋 About Me
-Hello! I'm a Junior Penetration Tester with a deep passion for cybersecurity and ethical hacking. My journey in this field is driven by an insatiable curiosity and a commitment to securing digital systems from ever-evolving threats. With a strong foundation in penetration testing and a proactive approach to learning, I aim to contribute to the global effort of safeguarding online environments.
-
-🛡️ Cybersecurity Enthusiast: I specialize in identifying vulnerabilities and fortifying systems against potential threats, ensuring a robust defense against cyberattacks.
-🧠 Self-Motivated Learner: I have earned the eJPT certification, reflecting my core skills in penetration testing and my ability to execute practical security assessments.
-🔧 Hands-On Expertise: Proficient in essential security tools like Metasploit, Burp Suite, and Nmap, I’m continuously expanding my skill set in scripting and automation to streamline security testing.
-🎓 Committed to Growth: I am constantly learning, improving, and applying my knowledge through real-world projects, certifications, and practical challenges.
-🚀 Current Focus:
-Enhancing my proficiency in network security and web application penetration testing.
-Actively preparing for advanced certifications such as CEH, OSCP, and PenTest+.
-Developing my final-year project—a firewall design—to showcase my technical expertise and secure a top grade.
-🌟 Vision:
-To evolve into one of the leading penetration testers worldwide and make a profound impact in the cybersecurity industry by shaping a secure digital future for all.
+Hello! I'm a Junior Penetration Tester with a passion for ethical hacking and cybersecurity. My journey is fueled by an innate curiosity and a commitment to mastering the art of protecting digital infrastructures from evolving cyber threats. With a solid foundation built through self-driven learning and practical experience, I specialize in identifying vulnerabilities, securing systems, and fortifying digital defenses. I am highly proficient in using industry-standard tools such as Metasploit, Burp Suite, and Nmap, and continuously expanding my expertise in scripting, network security, and web application testing. I hold the eJPT certification, and I am currently preparing for advanced certifications like CEH, OSCP, and PenTest+ to further hone my skills. As a committed lifelong learner, I focus on hands-on projects and real-world challenges to ensure I am always at the forefront of the cybersecurity landscape.
 
 🎯 Objective
-As a Junior Penetration Tester, my goal is to leverage my skills to identify and mitigate vulnerabilities, playing an active role in the development of secure systems. I am focused on continuous improvement through advanced training, certifications, and hands-on experience.
-
-I am committed to building innovative cybersecurity solutions that address emerging threats, ensuring system and network security in an increasingly digital world.
-My long-term vision is to achieve world-class proficiency in penetration testing and found a leading cybersecurity company that pioneers the development of cutting-edge security standards.
-By remaining adaptable, continually learning, and contributing to the field, I aspire to be recognized as a top-tier cybersecurity professional.
-
+My objective as a Junior Penetration Tester is to leverage my expertise in identifying and mitigating security vulnerabilities to help create safer digital environments. I aim to grow into a world-class professional by continuously expanding my skill set and obtaining advanced certifications. With a focus on innovative solutions and a dedication to staying ahead of emerging threats, I aspire to play a pivotal role in building resilient systems that withstand modern cyber challenges. Ultimately, my goal is to establish a leading cybersecurity company that sets new standards in the industry, blending cutting-edge security practices with a forward-thinking approach. Through this, I aim to make a lasting impact on the cybersecurity field, contributing to a safer and more secure digital world.
 ## 🛠️ My Skills
 
 | **Category**                      | **Skills & Tools**                                                                                                                                           |
