@@ -52,7 +52,8 @@ My ultimate goal is to become a world-class penetration tester and establish a l
 
 
 ## Certifications
-<img src="https://img.shields.io/badge/-eJPT-000000?&style=for-the-badge&logo=eLearnSecurity&logoColor=white" />
+<img src="https://img.shields.io/badge/-eJPT%20Certified-0052CC?style=for-the-badge&logo=INE&logoColor=white" />
+
 
 
 
