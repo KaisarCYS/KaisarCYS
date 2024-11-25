@@ -6,10 +6,10 @@
 
 Hi there! I'm a **Junior Penetration Tester** passionate about cybersecurity and ethical hacking. My journey in the field is fueled by curiosity, self-driven learning, and a commitment to building secure digital environments.  
 
-- 🛡️ **Cybersecurity Enthusiast:** Specialized in identifying vulnerabilities and securing systems against potential threats.  
-- 🧠 **Self-Learner:** Earned the **eJPT certification**, showcasing my foundational skills in penetration testing.  
-- 🔧 **Hands-On Experience:** Skilled in tools like **Metasploit**, **Burp Suite**, and **Nmap**, with a growing proficiency in scripting and automation for security testing.  
-- 🎓 **Student of Knowledge:** Constantly honing my skills through projects, certifications, and practical challenges.  
+- 🛡️ Cybersecurity Enthusiast: Specialized in identifying vulnerabilities and securing systems against potential threats.  
+- 🧠 Self-Learner: Earned the eJPT certification, showcasing my foundational skills in penetration testing.  
+- 🔧 Hands-On Experience: Skilled in tools like Metasploit,Burp Suite, and Nmap, with a growing proficiency in scripting and automation for security testing.  
+- 🎓 Student of Knowledge: Constantly honing my skills through projects, certifications, and practical challenges.  
 
 🔍 Current Focus:  
 - Enhancing my expertise in **network security** and **web application testing**.  
