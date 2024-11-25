@@ -40,6 +40,22 @@ My ultimate goal is to become a world-class penetration tester and establish a l
 ## Tools
 [Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
 
+
+## Top 10 Penetration Testing Tools  
+
+![Wireshark](https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white)  
+![Metasploit](https://img.shields.io/badge/-Metasploit-333333?&style=for-the-badge&logo=Metasploit&logoColor=white)  
+![Burp Suite](https://img.shields.io/badge/-Burp%20Suite-FF7A00?&style=for-the-badge&logo=PortSwigger&logoColor=white)  
+![Nmap](https://img.shields.io/badge/-Nmap-4682B4?&style=for-the-badge&logo=Nmap&logoColor=white)  
+![Kali Linux](https://img.shields.io/badge/-Kali%20Linux-557C94?&style=for-the-badge&logo=Kali-Linux&logoColor=white)  
+![Hydra](https://img.shields.io/badge/-Hydra-008080?&style=for-the-badge&logo=hydra&logoColor=white)  
+![John the Ripper](https://img.shields.io/badge/-John%20the%20Ripper-2E8B57?&style=for-the-badge&logo=JtR&logoColor=white)  
+![Aircrack-ng](https://img.shields.io/badge/-Aircrack--ng-00CED1?&style=for-the-badge&logo=Aircrack-ng&logoColor=white)  
+![OWASP ZAP](https://img.shields.io/badge/-OWASP%20ZAP-000000?&style=for-the-badge&logo=OWASP&logoColor=white)  
+![SQLmap](https://img.shields.io/badge/-SQLmap-B22222?&style=for-the-badge&logo=sqlmap&logoColor=white)  
+
+
+
 ### Network
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
