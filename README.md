@@ -25,17 +25,17 @@ To leverage my skills as a Junior Penetration Tester in identifying and mitigati
 
 My ultimate goal is to become a world-class penetration tester and establish a leading cybersecurity company that sets new standards in the industry.
 
-## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
+## Skills## 🛠️ My Skills
 
-| Skill                                         | Associated Project         |
-|-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+| **Category**                      | **Skills & Tools**                                                                                                                                           |
+|-----------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **🔒 Penetration Testing & Ethical Hacking** | Kali Linux, Burp Suite, Nmap, Wireshark, Metasploit, Netcat, Nikto, Vulnerability Assessment, Web Application Security, OSINT, Exploit Development, Privilege Escalation, Post-Exploitation |
+| **🖥️ Scripting & Automation**     | Python, Bash, PowerShell, JavaScript, SQL, Automating Security Tasks, Web Scraping, Penetration Testing Scripts, Vulnerability Scanning, Exploit Development |
+| **🌐 Networking & Security**      | TCP/IP, DNS, HTTP(S), FTP, SMTP, VPN, SSH, Firewalls, IDS/IPS, Security Monitoring Tools, Network Scanning, Traffic Analysis, Packet Injection                |
+| **🔐 Cybersecurity Defense & Incident Response** | SIEM (Splunk, Graylog, ELK Stack), Incident Response, Forensics, Data Breach Detection, Malware Analysis, Reverse Engineering, Threat Hunting |
+| **⚙️ Security Automation & Orchestration** | Shuffle SOAR, TheHive, MISP, SIEM, Automation of Security Operations, Threat Intelligence Integration, Automating Incident Handling, Threat Mitigation |
+| **🔧 Project Development & Tools** | Keylogger, Port Scanner, Web Scraper, Honeypots, Firewall, Packet Sniffer, Secure Coding, Vulnerability Research, Risk Assessment                          |
+
 
 ## Tools
 
