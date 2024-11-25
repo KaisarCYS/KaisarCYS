@@ -7,16 +7,19 @@ Hello! I'm a Junior Penetration Tester with a passion for ethical hacking and cy
 
 🎯 Objective
 My objective as a Junior Penetration Tester is to leverage my expertise in identifying and mitigating security vulnerabilities to help create safer digital environments. I aim to grow into a world-class professional by continuously expanding my skill set and obtaining advanced certifications. With a focus on innovative solutions and a dedication to staying ahead of emerging threats, I aspire to play a pivotal role in building resilient systems that withstand modern cyber challenges. Ultimately, my goal is to establish a leading cybersecurity company that sets new standards in the industry, blending cutting-edge security practices with a forward-thinking approach. Through this, I aim to make a lasting impact on the cybersecurity field, contributing to a safer and more secure digital world.
-## 🛠️ My Skills
 
-| **Category**                      | **Skills & Tools**                                                                                                                                           |
-|-----------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **🔒 Penetration Testing & Ethical Hacking** | Kali Linux, Burp Suite, Nmap, Wireshark, Metasploit, Netcat, Nikto, Vulnerability Assessment, Web Application Security, OSINT, Exploit Development, Privilege Escalation, Post-Exploitation |
-| **🖥️ Scripting & Automation**     | Python, Bash, PowerShell, JavaScript, SQL, Automating Security Tasks, Web Scraping, Penetration Testing Scripts, Vulnerability Scanning, Exploit Development |
-| **🌐 Networking & Security**      | TCP/IP, DNS, HTTP(S), FTP, SMTP, VPN, SSH, Firewalls, IDS/IPS, Security Monitoring Tools, Network Scanning, Traffic Analysis, Packet Injection                |
-| **🔐 Cybersecurity Defense & Incident Response** | SIEM (Splunk, Graylog, ELK Stack), Incident Response, Forensics, Data Breach Detection, Malware Analysis, Reverse Engineering, Threat Hunting |
-| **⚙️ Security Automation & Orchestration** | Shuffle SOAR, TheHive, MISP, SIEM, Automation of Security Operations, Threat Intelligence Integration, Automating Incident Handling, Threat Mitigation |
-| **🔧 Project Development & Tools** | Keylogger, Port Scanner, Web Scraper, Honeypots, Firewall, Packet Sniffer, Secure Coding, Vulnerability Research, Risk Assessment                          |
+## 🛠️ My Skills & Projects
+
+| **Project**            | **Skills & Techniques Used**                                                                                                                       |
+|------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Keylogger**          | Penetration Testing, Keylogging, Ethical Hacking, OSINT, Malware Analysis, Windows/Linux Security, Privacy and Security Threats                    |
+| **Port Scanner**       | Network Scanning, TCP/IP, Nmap, Vulnerability Assessment, Exploit Development, Footprinting, Reconnaissance                                        |
+| **Web Scraper**        | Web Scraping, Python, Automation, Scripting, Data Extraction, Web Application Security, HTTP(S), SQL Injection Testing, Cross-Site Scripting (XSS) |
+| **Honeypots**          | Network Security, Honeypot Deployment, Intrusion Detection, Data Capture, Threat Intelligence, Malware Analysis                                  |
+| **Firewall**           | Firewall Configuration, Network Security, TCP/IP, VPN, IDS/IPS, Security Policy, Penetration Testing, Packet Filtering                          |
+| **Packet Sniffer**     | Network Traffic Analysis, Packet Sniffing, Wireshark, TCP/IP, Protocol Analysis, Network Security Monitoring                                      |
+
+                      |
 
 
 ## Tools
