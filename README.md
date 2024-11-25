@@ -19,10 +19,10 @@ Hi there! I'm a **Junior Penetration Tester** passionate about cybersecurity and
 🌟 Goal:  
 To grow into one of the best penetration testers in the world 🌍 and make a significant impact in the cybersecurity industry.  
 
-## Objective
-[Provide Objective - Remove this afterwards]]
+🎯 Objective
+To leverage my skills as a Junior Penetration Tester in identifying and mitigating security vulnerabilities, contributing to safer digital environments. I aim to continuously enhance my expertise in cybersecurity, earn advanced certifications, and build innovative solutions that protect systems and networks from emerging threats.
 
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+My ultimate goal is to become a world-class penetration tester and establish a leading cybersecurity company that sets new standards in the industry.
 
 ## Skills
 [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
