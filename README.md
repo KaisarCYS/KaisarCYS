@@ -52,6 +52,10 @@ My ultimate goal is to become a world-class penetration tester and establish a l
 
 
 ## Certifications
+<img src="https://img.shields.io/badge/-eJPT-000000?&style=for-the-badge&logo=eLearnSecurity&logoColor=white" />
+
+
+
 [Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
 <div>
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
