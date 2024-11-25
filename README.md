@@ -56,5 +56,9 @@ My ultimate goal is to become a world-class penetration tester and establish a l
 <img src="https://img.shields.io/badge/-TryHackMe%20Junior%20Penetration%20Tester-9B2C2C?style=for-the-badge&logo=TryHackMe&logoColor=white" />
 
 ## Projects
-- Detection Lab
-- SOC Automation Project
+- Keylogger
+- Port Scanner
+- Web Scraper
+- Honeypots
+- Firewall
+- Packet Sniffer
