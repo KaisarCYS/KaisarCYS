@@ -40,14 +40,16 @@ My objective as a Junior Penetration Tester is to leverage my expertise in ident
 <img src="https://img.shields.io/badge/-eJPT%20Certified-0052CC?style=for-the-badge&logo=INE&logoColor=white" />
 <img src="https://img.shields.io/badge/-TryHackMe%20Junior%20Penetration%20Tester-9B2C2C?style=for-the-badge&logo=TryHackMe&logoColor=white" />
 
-## 🛠️ Projects
+## 🚀 Projects  
 
-| **Project**            | **Skills & Techniques Used**                                                                                                                       |
-|------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Keylogger**          | Penetration Testing, Keylogging, Ethical Hacking, OSINT, Malware Analysis, Windows/Linux Security, Privacy and Security Threats                    |
-| **Port Scanner**       | Network Scanning, TCP/IP, Nmap, Vulnerability Assessment, Exploit Development, Footprinting, Reconnaissance                                        |
-| **Web Scraper**        | Web Scraping, Python, Automation, Scripting, Data Extraction, Web Application Security, HTTP(S), SQL Injection Testing, Cross-Site Scripting (XSS) |
-| **Honeypots**          | Network Security, Honeypot Deployment, Intrusion Detection, Data Capture, Threat Intelligence, Malware Analysis                                  |
-| **Firewall**           | Firewall Configuration, Network Security, TCP/IP, VPN, IDS/IPS, Security Policy, Penetration Testing, Packet Filtering                          |
-| **Packet Sniffer**     | Network Traffic Analysis, Packet Sniffing, Wireshark, TCP/IP, Protocol Analysis, Network Security Monitoring                                      |
+| **Project**                           | **Skills & Techniques Used**                                                                                                                       |
+|---------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------|
+| **[Keylogger]([https://github.com/yourusername/keylogger](https://github.com/KaisarCYS/Keylogger))**         | Penetration Testing, Keylogging, Ethical Hacking, OSINT, Malware Analysis, Windows/Linux Security, Privacy and Security Threats                    |
+| **[Port Scanner](https://github.com/yourusername/port-scanner)**   | Network Scanning, TCP/IP, Nmap, Vulnerability Assessment, Exploit Development, Footprinting, Reconnaissance                                        |
+| **[Web Scraper](https://github.com/yourusername/web-scraper)**     | Web Scraping, Python, Automation, Scripting, Data Extraction, Web Application Security, HTTP(S), SQL Injection Testing, Cross-Site Scripting (XSS) |
+| **[Honeypots](https://github.com/yourusername/honeypots)**         | Network Security, Honeypot Deployment, Intrusion Detection, Data Capture, Threat Intelligence, Malware Analysis                                    |
+| **[Firewall](https://github.com/yourusername/firewall)**           | Firewall Configuration, Network Security, TCP/IP, VPN, IDS/IPS, Security Policy, Penetration Testing, Packet Filtering                            |
+| **[Packet Sniffer](https://github.com/yourusername/packet-sniffer)**| Network Traffic Analysis, Packet Sniffing, Wireshark, TCP/IP, Protocol Analysis, Network Security Monitoring                                       |
+
+
 
